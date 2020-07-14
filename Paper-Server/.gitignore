@@ -1,0 +1,14 @@
+# Eclipse stuff
+/.classpath
+/.project
+/.settings
+
+# maven
+/target
+
+# intellij
+*.iml
+/.idea
+
+# other
+/logs
